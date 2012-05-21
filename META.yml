@@ -19,6 +19,7 @@ no_index:
     - t
     - xt
 requires:
+  File::Temp: 0
   Log::Minimal: 0
   Mouse: 0
   POSIX: 0
@@ -28,4 +29,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/fujiwara/p5-Parallel-Benchmark.git
-version: 0.03
+version: 0.04

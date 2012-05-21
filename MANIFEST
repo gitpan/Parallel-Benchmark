@@ -19,6 +19,7 @@ META.yml
 MYMETA.json
 MYMETA.yml
 README
+README.md
 t/00_compile.t
 t/01_sleep.t
 t/02_fib.t

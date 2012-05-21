@@ -18,10 +18,11 @@ no_index:
     - t
     - inc
 requires:
+  File::Temp: 0
   Log::Minimal: 0
   Mouse: 0
   POSIX: 0
   Parallel::ForkManager: 0
   Parallel::Scoreboard: 0
   Time::HiRes: 0
-version: 0.03
+version: 0.04
