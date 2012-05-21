@@ -22,5 +22,6 @@ requires:
   Mouse: 0
   POSIX: 0
   Parallel::ForkManager: 0
+  Parallel::Scoreboard: 0
   Time::HiRes: 0
-version: 0.02
+version: 0.03

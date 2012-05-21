@@ -19,12 +19,8 @@ META.yml
 MYMETA.json
 MYMETA.yml
 README
-README.md
 t/00_compile.t
 t/01_sleep.t
 t/02_fib.t
 t/03_fail.t
-xt/01_podspell.t
-xt/02_perlcritic.t
-xt/03_pod.t
-xt/perlcriticrc
+t/04_slow_start.t
