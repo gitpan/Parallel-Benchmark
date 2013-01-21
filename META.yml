@@ -27,7 +27,8 @@ requires:
   Parallel::ForkManager: 0.7.6
   Parallel::Scoreboard: 0
   Time::HiRes: 0
+  Try::Tiny: 0
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/fujiwara/p5-Parallel-Benchmark.git
-version: 0.05
+version: 0.06
