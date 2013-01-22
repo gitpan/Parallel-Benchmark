@@ -23,8 +23,7 @@
    "prereqs" : {
       "build" : {
          "requires" : {
-            "ExtUtils::MakeMaker" : "6.36",
-            "Test::More" : "0"
+            "ExtUtils::MakeMaker" : "6.36"
          }
       },
       "configure" : {
@@ -55,5 +54,5 @@
          "url" : "git://github.com/fujiwara/p5-Parallel-Benchmark.git"
       }
    },
-   "version" : "0.06"
+   "version" : "0.07"
 }
